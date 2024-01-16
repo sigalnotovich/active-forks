@@ -39,6 +39,9 @@ function fetchData() {
   }
 }
 
+//function UpdateDT(data,date){
+// }
+
 function updateDT(data) {
   // Remove any alerts, if any:
   if ($('.alert')) $('.alert').remove();
